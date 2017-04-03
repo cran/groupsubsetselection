@@ -1,0 +1,7 @@
+7f9b2cc51dc4ce6f8539a5e78d39190f *DESCRIPTION
+a83953ea015e18d7d81eed814c6cf5d1 *NAMESPACE
+2cae2950e22de0b0cbedc512ebcd9146 *R/groupsubsetselection.r
+f2604a206634e07df518363d7f0caae5 *R/groupsubsetselection_ro_bck.r
+63f434724aae3676c76c3eee79eeed03 *man/groupsubsetselection.Rd
+cc7ef46f7edb32dcb5e7dca546b875d3 *src/gss.f90
+9763bb692dd0521953b0ff811c033ede *src/init.c

@@ -1,0 +1,4 @@
+useDynLib(groupsubsetselection, .registration = TRUE, .fixes = "C_")
+
+export(groupsubsetselection
+       )
